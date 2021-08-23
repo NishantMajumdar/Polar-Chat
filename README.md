@@ -14,4 +14,4 @@ Recommended To Use On PC For Best View And Ease
 # Conclusion
 Ready To Hop Into Polar Chat ?
 
-[Click Here](https://polar-chat.polar-69.repl.co/) And Start Chatting...
+[[+]-CLICK TO LAUNCH-[+]](https://polar-chat.polar-69.repl.co/)
