@@ -12,4 +12,4 @@ This Project Works On Mobile Devices However Appears Very Small
 Recommended To Use On PC For Best View And Ease
 
 # Conclusion
-Begin [[Here]](https://polar-chat.polar-69.repl.co/)
+Begin By Clicking [[-Here-]](https://polar-chat.polar-69.repl.co/)
