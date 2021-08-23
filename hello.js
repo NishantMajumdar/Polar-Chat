@@ -1,21 +1,5 @@
-var Hey = "Hey Nothing To See Here || Go Back To README LOL";
+var Pineapple = "Go Back To The README Nothing To See Here";
 
-let John = 1;
+let Banana = 1;
 
-let Adam = 2;
-
-let Bill = 3;
-
-let Jill = 4;
-
-let Liam = 5;
-
-let Jack = 6;
-
-let Noah = 7;
-
-let Luke = 8;
-
-let Levi = 9;
-
-var Potato = Number('1234');
+const Potato = Number('89');
