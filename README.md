@@ -16,4 +16,4 @@ Ready To Hop Into Polar Chat ?
 
 Click Below
 
-![https://iconape.com/wp-content/png_logo_vector/windows-start-button-logo.png](https://polar-chat.polar-69.repl.co/)
+![Start Polar Chat](https://iconape.com/wp-content/png_logo_vector/windows-start-button-logo.png)(https://polar-chat.polar-69.repl.co/)
