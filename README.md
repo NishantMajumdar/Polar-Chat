@@ -15,5 +15,7 @@ A Simple Chatroom Web Application
 # Conclusion
 Begin Using Polar Chat [[-Here-]](https://polar-chatty.polar-69.repl.co/)
 
-# Note
+## Note
 UI Appears Better On PC Then Mobile
+
+Use PC For Best Experience
