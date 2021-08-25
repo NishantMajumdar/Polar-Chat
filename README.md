@@ -5,10 +5,15 @@ A Simple Chatroom Web Application
 * Animations
 * Custom Rooms
 * Custom Usernames
-* And Much More
-* Admins
-* / Commands
+* Room Admins With Perms
+* Special Commands
 * Voice Calls
+* Private Messages
+* Suggestion Form
+* And Much More
 
 # Conclusion
 Begin Using Polar Chat [[-Here-]](https://polar-chatty.polar-69.repl.co/)
+
+# Note
+UI Appears Better On PC Then Mobile
