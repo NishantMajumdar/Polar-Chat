@@ -1,5 +1,3 @@
-var Pineapple = "Go Back To The README Nothing To See Here";
+var url = "https://Polar-Chatty.polar-69.repl.co";
 
-let Banana = 1;
-
-const Potato = Number('89');
+var url = cool;
