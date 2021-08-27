@@ -3,9 +3,11 @@ A Simple Chatroom Web Application
 
 # Features
 * Animations
+* Sound Effects
 * Custom Rooms
+* Default Public Rooms
 * Custom Usernames
-* Room Admins With Perms
+* Room Admins With Perms (Mute , Ban , Warn)
 * Special Commands
 * Voice Calls
 * Private Messages
