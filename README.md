@@ -4,11 +4,11 @@
 # Features
 * Animations
 * Sound Effects
-* Custom Rooms
+* Custom Rooms With Codes
 * Default Public Rooms
 * Custom Usernames
-* Room Admins With Perms (Mute , Ban , Warn)
-* Special Commands
+* Room Admins With Perms (Mute , Ban , Warn , Whitelist)
+* Special Commands /clear , /username etc.
 * Voice Calls
 * Private Messages
 * Suggestion Form
