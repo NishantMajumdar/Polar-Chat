@@ -1,5 +1,5 @@
 # Polar-Chat
-A Simple Chatroom Web Application
+![Logo](image.png)
 
 # Features
 * Animations
