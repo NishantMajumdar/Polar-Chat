@@ -1,5 +1,7 @@
 # Polar-Chat
-![Logo](image.png)
+```js
+var Polar_Chat = "Cool And Advanced Web Chat Application";
+```
 
 # Features
 * Animations
