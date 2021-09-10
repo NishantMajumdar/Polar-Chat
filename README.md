@@ -1,9 +1,5 @@
-# Polar-Chat
-```js
-var Polar_Chat = "Cool And Advanced Web Chat Application";
-```
+# 👽 Polar-Chat 👽
 
-# Features
 * Animations
 * Sound Effects
 * Custom Rooms With Codes
