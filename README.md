@@ -1,4 +1,4 @@
-# 👽 Polar-Chat 👽
+# Polar-Chat
 
 * Animations
 * Sound Effects
@@ -12,10 +12,10 @@
 * Suggestion Form
 * And Much More
 
-# 👽 Conclusion 👽
+# Conclusion
 Begin Using Polar Chat [[-Here-]](https://polar-chatty.polar-69.repl.co/)
 
-# 👽 Note 👽
+# Note
 UI Appears Better On PC Then Mobile
 
 Use PC For Best Experience
