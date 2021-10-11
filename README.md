@@ -1,6 +1,6 @@
 # Polar-Chat
 ## Features
-[x] Nice CSS Animations
+[ x ] Nice CSS Animations
 [x] Bad Words Filtering
 [x] Youtube Videos Embedding
 [x] User Is Typing Display
