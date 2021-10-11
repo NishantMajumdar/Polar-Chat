@@ -1,25 +1,28 @@
 # Polar-Chat
 ## Features
-[ x ] Nice CSS Animations
-[x] Bad Words Filtering
-[x] Youtube Videos Embedding
-[x] User Is Typing Display
-[x] Custom Private Rooms With Custom Code
-[x] Default Public Room
-[x] Private Messages In Public Room
-[x] Voice Calling
-[x] Text Commands (Example: /room 1234 , /userlist)
-[x] Admins (Can Mute Users From Talking , Warn Users , Ban Users , Clear Chat And Much More)
-[x] Anti Spam Except For Admins And Whitelisted People (Admins Can Use /whitelist)
-[x] User Mention (Example: @username)
-[x] Can Send Image Files
-[x] Script Execute Attack Protection
-[x] Username Change
-[x] And Much More Left For Discovery
+* Nice CSS Animations
+* Bad Words Filtering
+* Youtube Videos Embedding
+* User Is Typing Display
+* Custom Private Rooms With Custom Code
+* Default Public Room
+* Private Messages In Public Room
+* Voice Calling
+* Text Commands (Example: /room 1234 , /userlist)
+* Admins (Can Mute Users From Talking , Warn Users , Ban Users , Clear Chat And Much More)
+* Anti Spam Except For Admins And Whitelisted People (Admins Can Use /whitelist)
+* User Mention (Example: @username)
+* Can Send Image Files
+* Script Execute Attack Protection
+* Username Change
+* And Much More Left For Discovery
 
 ## To Add
 * Message Edit / Delete
 * Improve Image Quality
+* Can Send Any File
+* File Scanning For Malicious Possibility
+
 # Conclusion
 Begin Using Polar Chat [[-Here-]](https://polar-chatty.polar-69.repl.co/)
 
