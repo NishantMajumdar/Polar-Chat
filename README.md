@@ -18,7 +18,6 @@
 * And Much More Left For Discovery
 
 ## To Add
-* Message Edit / Delete
 * Improve Image Quality
 * Can Send Any File
 * File Scanning For Malicious Possibility
