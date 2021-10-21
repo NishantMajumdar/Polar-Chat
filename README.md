@@ -23,7 +23,7 @@
 * File Scanning For Malicious Possibility
 
 # Conclusion
-Begin Using Polar Chat [[-Here-]](https://polar-chatty.polar-69.repl.co/)
+Begin Using Polar Chat [Here](https://polar-chatty.polar-69.repl.co/)
 
 # Note
 UI Appears Better On PC Then Mobile
