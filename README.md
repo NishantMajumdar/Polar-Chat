@@ -30,3 +30,6 @@ npm i
 ```
 npm start
 ```
+
+## Note
+This project took very long to make so credits will really be appreciated
