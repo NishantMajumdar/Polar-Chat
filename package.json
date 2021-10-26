@@ -1,7 +1,7 @@
 {
-  "name": "socket-chat-example",
+  "name": "Polar Chat",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "An advanced web chat application",
   "dependencies": {
     "anchorme": "^2.1.2",
     "bad-words-plus": "^3.0.4",
