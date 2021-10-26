@@ -23,9 +23,11 @@
 * File Scanning For Malicious Possibility
 
 # Conclusion
-Begin Using Polar Chat [Here](https://polar-chatty.polar-69.repl.co/)
+Checkout the main app [here](https://polar-chatty.polar-69.repl.co/)
 
 # Important
-You May Use This For Learning However Distribution And Claiming Of It Belonging To You is Prohibited
+You may learn from this source however u are prohibited from distributing thsi code and claiming it as yours
 
-If Your Website Is Found Without Credits And Claiming To Be Created By You, You Will Be Copyright Striked
+If found a distribution of this application without original credits, You will be copyright striked
+
+Enjoy Chatting !!!
