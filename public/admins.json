@@ -1,10 +1,4 @@
 {
- "allowAdminCreation": false,
- "admins": [
-  {
-   "name": "Polar",
-   "color": "BLUE",
-   "password": 421749151
-  }
- ]
+ "allowAdminCreation": true,
+ "admins": []
 }
