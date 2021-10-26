@@ -25,11 +25,7 @@
 # Conclusion
 Begin Using Polar Chat [Here](https://polar-chatty.polar-69.repl.co/)
 
-# Note
-UI Appears Better On PC Then Mobile
-
-Use PC For Best Experience
-
-You May Use This For Learning However Re Distribution And Claiming Of It Belonging To You is Prohibited
+# Important
+You May Use This For Learning However Distribution And Claiming Of It Belonging To You is Prohibited
 
 If Your Website Is Found Without Credits And Claiming To Be Created By You, You Will Be Copyright Striked
