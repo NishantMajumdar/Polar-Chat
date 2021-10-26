@@ -26,8 +26,6 @@
 Checkout the main app [here](https://polar-chatty.polar-69.repl.co/)
 
 ## Important
-You may learn from this source however u are prohibited from distributing thsi code and claiming it as yours
-
-If found a distribution of this application without original credits, You will be copyright striked
+This project took very long so please leave credits if you decide to use some of this code
 
 Enjoy Chatting !!!
