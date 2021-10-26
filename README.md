@@ -22,3 +22,11 @@
 * Allow sending any file
 * Scanning files for maliciousness
 * Delete / Edit your messages
+
+## Installation
+```js
+npm i
+```
+```
+npm start
+```
