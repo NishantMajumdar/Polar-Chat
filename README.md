@@ -25,8 +25,6 @@
 # Conclusion
 Begin Using Polar Chat [Here](https://polar-chatty.polar-69.repl.co/)
 
-Source Code Might Not Release For A While To Prevent Skids
-
 # Note
 UI Appears Better On PC Then Mobile
 
