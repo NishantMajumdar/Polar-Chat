@@ -22,11 +22,3 @@
 * Allow sending any file
 * Scanning files for maliciousness
 * Delete / Edit your messages
-
-## Conclusion
-Checkout the main app [here](https://polar-chatty.polar-69.repl.co/)
-
-## Important
-This project took very long so please leave credits if you decide to use some of this code
-
-Enjoy Chatting !!!
