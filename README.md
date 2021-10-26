@@ -22,10 +22,10 @@
 * Can Send Any File
 * File Scanning For Malicious Possibility
 
-# Conclusion
+## Conclusion
 Checkout the main app [here](https://polar-chatty.polar-69.repl.co/)
 
-# Important
+## Important
 You may learn from this source however u are prohibited from distributing thsi code and claiming it as yours
 
 If found a distribution of this application without original credits, You will be copyright striked
