@@ -18,9 +18,10 @@
 * And Much More Left For Discovery
 
 ## To Add
-* Improve Image Quality
-* Can Send Any File
-* File Scanning For Malicious Possibility
+* Improve image quality
+* Allow sending any file
+* Scanning files for maliciousness
+* Delete / Edit your messages
 
 ## Conclusion
 Checkout the main app [here](https://polar-chatty.polar-69.repl.co/)
